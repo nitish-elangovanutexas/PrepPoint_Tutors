@@ -5,7 +5,7 @@ import { siteConfig } from "@/lib/site-config";
 export const metadata: Metadata = {
   title: "Contact",
   description:
-    "Contact PrepPoint Tutors for SAT prep and college counseling. Send a message or book a free consultation.",
+    "Contact PrepPoint Tutors for SAT prep and college counseling. Send a message or book a call to get started.",
 };
 
 export default function ContactPage() {
@@ -13,10 +13,10 @@ export default function ContactPage() {
     <div className="bg-background">
       <section className="border-b border-border bg-card py-16 sm:py-20">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
-          <h1 className="text-4xl font-bold tracking-tight text-navy sm:text-5xl">Contact &amp; free consultation</h1>
+          <h1 className="text-4xl font-bold tracking-tight text-navy sm:text-5xl">Get in touch</h1>
           <p className="mt-6 max-w-2xl text-lg text-muted">
-            This is the same place to reach us for general questions or to request a free consultation—no separate
-            booking system. Tell us about your goals and we&apos;ll follow up. You can also email{" "}
+            Use the form below to book a call or ask a question — no separate booking system. Tell us about your goals
+            and we&apos;ll follow up quickly. You can also email{" "}
             <a href={`mailto:${siteConfig.email}`} className="font-semibold text-navy underline decoration-accent">
               {siteConfig.email}
             </a>{" "}

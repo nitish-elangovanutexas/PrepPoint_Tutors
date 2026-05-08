@@ -36,7 +36,7 @@ export function SiteHeader() {
             href="/contact"
             className="rounded-lg bg-accent px-4 py-2.5 text-sm font-semibold text-navy shadow-sm transition hover:bg-accent-hover"
           >
-            Book a free consultation
+            Book a Call
           </Link>
         </div>
 
@@ -83,7 +83,7 @@ export function SiteHeader() {
             className="mt-2 rounded-lg bg-accent px-4 py-3 text-center text-base font-semibold text-navy"
             onClick={() => setOpen(false)}
           >
-            Book a free consultation
+            Book a Call
           </Link>
         </nav>
       </div>

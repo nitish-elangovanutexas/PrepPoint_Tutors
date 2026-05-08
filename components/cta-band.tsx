@@ -8,7 +8,7 @@ export function CtaBand() {
           Ready to take the next step?
         </h2>
         <p className="mx-auto mt-4 max-w-2xl text-lg text-orange-100">
-          Send a message to request a free consultation—we&apos;ll map a path that works for your timeline and goals.
+          Send a message and we&apos;ll map a path that works for your timeline and goals.
         </p>
         <Link
           href="/contact"
