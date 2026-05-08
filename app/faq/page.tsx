@@ -16,12 +16,12 @@ const faqs: FaqItem[] = [
   {
     question: "When should we start college counseling?",
     answer:
-      "Many families begin in sophomore or junior year for planning, but we also support seniors with school lists, essays, and deadlines. We’ll recommend a timeline in your free consultation.",
+      "Honestly? Any time in high school is a great time to start — we build a roadmap that meets you exactly where you are. That said, the summer before senior year is one of the highest-impact times to work together, since college applications are in full swing and strategic guidance can make a real difference in outcomes. We’ve worked with students at every stage and always find ways to add value.",
   },
   {
     question: "Are sessions only in person?",
     answer:
-      "Most sessions are online so you can stay consistent with school and activities. If you are local and prefer in person, mention it when you contact us and we can discuss options.",
+      "All sessions are conducted online via video call, making it easy to work together no matter where you are in Texas or beyond.",
   },
   {
     question: "How do personalized study plans work?",
@@ -29,9 +29,9 @@ const faqs: FaqItem[] = [
       "We look at your classes, activities, and test dates, then set weekly priorities you can realistically complete. Plans are adjusted as your schedule changes.",
   },
   {
-    question: "Do you offer a free consultation?",
+    question: "How do I get started?",
     answer:
-      "Yes. Use the contact form to tell us about your goals and availability—we will follow up to schedule a free consultation. There is no obligation to enroll after we talk.",
+      "Just reach out via the contact form or book a call directly. Tell us a bit about your goals and where you are in the process — we'll follow up quickly to figure out the best next step together.",
   },
 ];
 
