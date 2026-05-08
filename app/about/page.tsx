@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -65,11 +66,14 @@ export default function AboutPage() {
       <section className="py-16 sm:py-20">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
           <div className="grid gap-12 lg:grid-cols-2 lg:items-start">
-            <div>
-              {/* TODO: replace with real photo */}
-              <div className="flex aspect-[4/5] w-full items-center justify-center rounded-2xl border border-border bg-card text-5xl font-bold text-accent shadow-sm">
-                NE
-              </div>
+            <div className="flex justify-center lg:justify-start">
+              <Image
+                src="/tutoring_pfp.jpeg"
+                alt="Nitish Elangovan"
+                width={300}
+                height={300}
+                className="rounded-2xl object-cover shadow-sm"
+              />
             </div>
             <div>
               <h2 className="text-3xl font-bold text-navy">My background</h2>

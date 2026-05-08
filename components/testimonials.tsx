@@ -37,7 +37,7 @@ const items = [
   },
   {
     quote:
-      "The SAT prep was structured and flexible at the same time. My score jumped and I felt completely ready on test day.",
+      "Nitish helped me understand exactly what UT Austin looks for in an applicant. His guidance on building my college list and crafting my essays made the whole process feel a lot less overwhelming — and it paid off.",
     name: "Bhavdeep S.",
     result: "UT Austin Admit",
   },
