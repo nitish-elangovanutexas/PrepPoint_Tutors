@@ -3,6 +3,7 @@ import { Hero } from "@/components/hero";
 import { AboutTeaser } from "@/components/about-teaser";
 import { ServicesGrid } from "@/components/services-grid";
 import { Testimonials } from "@/components/testimonials";
+import { StatsBar } from "@/components/stats-bar";
 import { CtaBand } from "@/components/cta-band";
 import { ContactTeaser } from "@/components/contact-teaser";
 
@@ -16,6 +17,7 @@ export default function HomePage() {
   return (
     <>
       <Hero />
+      <StatsBar />
       <AboutTeaser />
       <ServicesGrid />
       <Testimonials />
