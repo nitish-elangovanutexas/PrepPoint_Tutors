@@ -75,33 +75,19 @@ export default function AboutPage() {
               <h2 className="text-3xl font-bold text-navy">My background</h2>
               <div className="mt-6 space-y-4 leading-relaxed text-muted">
                 <p>
-                  I&apos;m Nitish Elangovan — a rising sophomore at the University of Texas at
-                  Austin, studying Data Science in the{" "}
-                  <strong className="text-foreground">
-                    Polymathic Scholars honors program
-                  </strong>
-                  , one of UT&apos;s most selective academic communities.
-                </p>
-                <p>
-                  I navigated UT Austin admissions myself, and I went beyond my own experience —
-                  studying what worked for other top admits at UT and beyond. That combination of
-                  firsthand knowledge and aggregated insider perspective is what makes the guidance
-                  at PrepPoint different from a generic counselor.
-                </p>
-                <p>
-                  Last summer, I worked one-on-one with{" "}
-                  <strong className="text-foreground">15+ students</strong> on college admissions.
-                  The results:{" "}
-                  <strong className="text-foreground">7+ admits to UT Austin</strong>, one to{" "}
+                  Nitish is a rising sophomore at UT Austin studying Data Science in the{" "}
+                  <strong className="text-foreground">Polymathic Scholars honors program</strong>.
+                  Last summer he worked closely with{" "}
+                  <strong className="text-foreground">15+ students</strong> — helping each one
+                  build a strong, authentic application — and saw{" "}
+                  <strong className="text-foreground">7+ admitted to UT Austin</strong>, one to{" "}
                   <strong className="text-foreground">UC Berkeley</strong>, and one to{" "}
-                  <strong className="text-foreground">Northeastern University</strong> — a school
-                  with a 5.2% acceptance rate. Every application was built around the
-                  student&apos;s actual story, not a template.
+                  <strong className="text-foreground">Northeastern</strong>. The results came from
+                  real investment in each student&apos;s story, not a one-size-fits-all approach.
                 </p>
                 <p>
-                  PrepPoint is a solo operation. When you work with me, you get me — not an
-                  associate, not a junior counselor. Every session, every essay review, every
-                  strategy call is handled directly.
+                  Nitish personally leads every session, so you always work directly with someone
+                  who has been through the process themselves.
                 </p>
               </div>
               <Link

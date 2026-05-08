@@ -19,9 +19,9 @@ const faqs: FaqItem[] = [
       "Honestly? Any time in high school is a great time to start — we build a roadmap that meets you exactly where you are. That said, the summer before senior year is one of the highest-impact times to work together, since college applications are in full swing and strategic guidance can make a real difference in outcomes. We’ve worked with students at every stage and always find ways to add value.",
   },
   {
-    question: "Are sessions only in person?",
+    question: "Are all sessions online?",
     answer:
-      "All sessions are conducted online via video call, making it easy to work together no matter where you are in Texas or beyond.",
+      "Yes — all sessions are conducted online via Google Meet. Sessions are generally one hour long, though we can adjust based on what you need that day.",
   },
   {
     question: "How do personalized study plans work?",

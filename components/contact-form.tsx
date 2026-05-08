@@ -97,12 +97,13 @@ export function ContactForm() {
 
       <div>
         <label htmlFor="phone" className="block text-sm font-medium text-navy">
-          Phone <span className="text-muted">(optional)</span>
+          Phone <span className="text-red-600">*</span>
         </label>
         <input
           id="phone"
           name="phone"
           type="tel"
+          required
           autoComplete="tel"
           className="mt-2 w-full rounded-lg border border-border px-4 py-3 text-foreground outline-none ring-accent focus:ring-2"
           value={values.phone}

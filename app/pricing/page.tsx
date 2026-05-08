@@ -32,10 +32,8 @@ export default function PricingPage() {
                 <span className="text-lg text-muted">/ hour</span>
               </p>
               <p className="mt-6 leading-relaxed text-muted">
-                Flexible scheduling: book as many or as few sessions as you need. A full admissions plan—from school
-                list and strategy through essays and application polish—typically takes about{" "}
-                <strong className="text-foreground">8 sessions</strong> for many students, but we adapt to your
-                timeline and where you are in the process.
+                Flexible scheduling: book as many or as few sessions as you need. We work at your pace — some students
+                need just a few sessions, others prefer ongoing support throughout the year.
               </p>
               <ul className="mt-8 space-y-3 text-sm text-foreground">
                 <li className="flex gap-2">

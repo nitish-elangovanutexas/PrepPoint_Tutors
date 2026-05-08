@@ -16,7 +16,7 @@ const services = [
     description:
       "School list strategy, essays, applications, and timelines—personalized for your story and ambitions.",
     image:
-      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=800&h=500&q=80",
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=800&q=80",
     anchor: "counseling",
     imageLabel: "Graduation caps celebrating academic success",
   },
