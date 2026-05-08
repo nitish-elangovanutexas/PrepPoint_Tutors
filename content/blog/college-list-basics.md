@@ -1,46 +1,78 @@
 ---
-title: "Building a College List That Still Makes Sense in April"
-date: "2026-04-05"
-description: "How to balance reach, match, and safety schools without letting rankings drive the whole process—and what to verify before you apply."
+title: "How I Helped 7+ Students Get Into UT Austin Last Summer (And What You Can Learn From It)"
+date: "2026-05-01"
+description: "A first-person breakdown of what actually worked for my students last summer — building the right college list, understanding UT Austin's holistic review, and avoiding the mistakes that sink otherwise strong applications."
 ---
 
-Your college list is not a trophy shelf. It is a **strategy for maximizing good outcomes** across admissions uncertainty, cost, and fit. Here is a practical way to build one that still feels sane months later.
+Last summer I worked directly with 15+ students on their college applications. Seven of them got into UT Austin. One got into UC Berkeley. One got into Northeastern — which has a 5.2% acceptance rate.
 
-## Start with constraints, not names
+I'm not sharing these numbers to brag. I'm sharing them because I want you to understand that what I'm about to tell you isn't theory — it's what I watched work, application cycle after application cycle, in real time.
 
-Before you browse campuses, write down **non-negotiables** and **strong preferences**:
+Here's what I learned.
 
-- **Geography** (distance, climate, travel costs)
-- **Size** (seminar-style vs large lectures)
-- **Academic focus** (majors, pre-professional needs, research vs teaching)
-- **Cost reality** (in-state, merit likelihood, need-based aid sensitivity)
+## UT Austin Is Not What Most Students Think It Is
 
-If you skip this step, you will fall in love with schools that fail a basic constraint—and that heartbreak is expensive in time and money.
+The first thing I tell every student I work with: UT Austin is not a safety school, and it is not an automatic admit. It is a flagship research university that receives tens of thousands of applications every cycle and admits a small fraction of out-of-state applicants and a competitive fraction of in-state ones.
 
-## Use three buckets—but define them with data, not vibes
+The Texas Top 10% Rule guarantees admission to most UT programs for students in the top 10% of their Texas high school class. But if you're not in that bracket — or you're applying to a capped major like Business, CNS, or Engineering — you're in the holistic review pool. That's where strategy matters enormously.
 
-Most students hear “reach / match / safety.” Make those labels mean something:
+I know this process firsthand. I'm a current student at UT Austin, studying Data Science in the Polymathic Scholars honors program. I navigated this exact admissions process myself. And after getting in, I spent time talking to other admits — learning what they wrote, how they framed their stories, and what UT's readers actually respond to.
 
-- **Reach**: your profile is **below the middle 50%** for the primary stat the school cares about *or* the school is **selective enough** that outcomes are inherently uncertain for everyone.
-- **Match**: your profile sits **near the typical admitted student** for at least one important dimension (GPA/testing where used, rigor, program fit).
-- **Safety**: you are **meaningfully above** the school’s typical admitted profile *and* you would actually attend if admitted.
+## What Actually Goes Into a Strong UT Application
 
-A list that is all reaches is not ambitious—it is fragile. A list with weak safeties is not “balanced”—it is risky.
+UT uses a holistic review for students not covered by the Top 10% Rule. That means they look at:
 
-## “Fit” is three different questions
+- **Academic record and course rigor** — Are you challenging yourself, or taking the easy path?
+- **Essays** — UT has its own essay prompts, and they matter more than most students realize
+- **Extracurriculars and leadership** — But context matters; a student who works 20 hours a week to help their family will be read differently than one with a long list of clubs and nothing else
+- **The "why UT" factor** — Do you have a genuine reason for wanting to be there, or does your application scream "safety school"?
 
-When people say “fit,” they often mix three ideas. Split them intentionally:
+That last point is one I cannot stress enough. Admissions readers are experienced. They can tell when a student is genuinely interested versus when UT is a fallback. If your essays don't reflect any knowledge of or enthusiasm for UT Austin specifically, that comes through.
 
-1. **Academic fit**: Can you pursue the path you want here?
-2. **Social fit**: Will you find communities you can join and stress you can manage?
-3. **Financial fit**: What is the likely net cost after aid types you qualify for?
+## Building a College List That Actually Makes Sense
 
-A school can be a great academic fit and a bad financial fit. Rankings rarely resolve that for you.
+One of the biggest mistakes I see is students building a list based entirely on rankings. They pick a few Ivies as reaches, a few state schools as safeties, and call it done.
 
-## Visit (or simulate a visit) before you commit emotionally
+This is backwards.
 
-If travel is hard, do the next best thing: **student panels**, **YouTube day-in-the-life**, **course catalog depth**, and **one conversation** with a current student if possible. You are trying to detect mismatches early—like required curricula you dislike, or campus realities that do not match your needs.
+A good college list starts with fit — academic programs, campus culture, size, location, research opportunities, and post-graduation outcomes in your field. Rankings can inform this, but they shouldn't drive it.
 
----
+Here's the framework I use with students:
 
-> **Bottom line:** a strong list is diversified, constraint-aware, and honest about cost and selectivity. If you can explain *why each school is on the list* in two sentences, you are on the right track.
+**Likely (2–3 schools):** Places where your stats are well above their middle 50% range and you genuinely want to go. Not just schools you're picking because they feel safe.
+
+**Target (3–4 schools):** Places where you're solidly in range and have done the research to know why you'd thrive there.
+
+**Reach (2–3 schools):** Schools where your stats are below or at the edge of their range, but you have a compelling story and a strong fit case.
+
+Total: 7–10 schools. More than that and you start spreading yourself too thin on essays. Fewer than 6 and you're taking on real risk.
+
+## The AI Shift in Admissions — And How to Use It Without Getting Flagged
+
+I'd be doing you a disservice if I didn't address this directly.
+
+AI has changed college admissions. Admissions offices know it. Many schools have updated their policies, and readers have gotten surprisingly good at spotting AI-generated or AI-polished writing. The tell isn't always obvious — it's often a smoothness, a generality, a certain brand of optimism in phrasing that real 17-year-olds don't naturally produce.
+
+Here's how I coach students to use AI tools responsibly:
+
+**Use AI to brainstorm, not to write.** Ask ChatGPT or Claude to ask *you* questions — "What are five moments from the last year that changed how you see yourself?" Then answer those questions in your own voice. The ideas come from you; the AI is just a Socratic prompt generator.
+
+**Use AI to edit for structure, not for language.** Once you have a draft, you can ask an AI to flag confusing passages or check for logical flow. But the words should stay yours.
+
+**Never submit anything that sounds like it was written for everyone.** The best essays are specific to the point of embarrassment. They name people, places, and moments that no AI would invent. That specificity is your protection and your competitive edge.
+
+The students I worked with who wrote the best essays wrote them like they were texting a friend — raw, honest, and particular. We shaped them into polished pieces together. But the voice was always theirs.
+
+## The Mistake That Costs Students The Most
+
+I've seen academically strong students get waitlisted at UT Austin because their application felt generic. Good grades, solid test score, respectable extracurriculars — and an essay that could have been written by anyone.
+
+I've also seen students with non-traditional profiles get in because they told a story that was undeniably theirs.
+
+The admissions process rewards clarity of self. Students who know who they are, what they've done, and why they want to go to a specific school have a structural advantage — regardless of GPA.
+
+If you take one thing from this post: your application is a narrative, not a resume. Everything in it should point somewhere. The reader should finish your file and feel like they know you.
+
+That's the work I do with students. Not polishing essays into something impressive — building applications that are honest and strategic at the same time.
+
+If you want help thinking through your college list or application strategy, [get in touch](/contact). I work with a small number of students each cycle so I can give every one of them serious attention.

@@ -1,47 +1,88 @@
 ---
-title: "SAT Reading & Writing: A Pacing System That Survives Test Day"
-date: "2026-04-10"
-description: "A practical framework for the Digital SAT Reading & Writing section—timing, question order, and review habits that hold up under pressure."
+title: "The SAT Study Plan That Actually Works Around a Busy High School Schedule"
+date: "2026-05-05"
+description: "A practical pacing guide for students who have sports, AP classes, jobs, and a life — and still want to see real score improvement on the SAT."
 ---
 
-The Digital SAT Reading & Writing (R&W) section is less about “reading faster” and more about **making the same good decisions on every question**, even when you are tired. Below is a system you can practice until it feels automatic.
+Most SAT prep advice is written for students who can treat test prep like a part-time job. Study three hours a day, grind through six full practice tests, download every Khan Academy module.
 
-## Know your hard stop per question
+That's not most students.
 
-Before you touch official practice, decide a **maximum time per question** you will not exceed on the first pass. A common starting point is roughly **1 minute per question** in R&W, adjusted after a timed diagnostic. The goal is not to finish with tons of spare time—it is to **avoid three questions eating six minutes** while easier points sit later in the module.
+Most students I work with have AP classes, extracurriculars, part-time jobs, and families. They have maybe 45 minutes on a good night, nothing on a Wednesday when there's a game, and a few longer stretches on weekends if nothing else is happening.
 
-If a question feels stuck after your first-pass limit, **mark it and move on**. The test rewards completed work more than heroic staring.
+Here's how I build SAT study plans for students who actually have lives.
 
-## Pass 1: answer what you can; flag two kinds of trouble
+## Start With a Diagnostic, Not a Study Plan
 
-On the first pass, answer questions you can resolve quickly and accurately. Flag:
+Before you plan a single study session, you need to know where you are.
 
-1. **“Two answers feel right”** questions (usually evidence or transition logic).
-2. **Dense passages** where you know you will need a second read with calmer eyes.
+Take a real, full-length SAT practice test under real conditions — timed, no breaks beyond what the actual test allows, no phone. Score it. Then look at your wrong answers and sort them into two buckets:
 
-This keeps momentum and prevents “tunnel vision” early in the module.
+1. **Careless errors** — You knew how to do it, you just rushed or misread
+2. **Content gaps** — You didn't know the concept or skill being tested
 
-## Pass 2: evidence first on the close-call questions
+These two categories require completely different responses. Drilling more practice problems won't fix a content gap. And studying a concept you already know won't fix a carelessness problem.
 
-When you return to a flagged item, **do not reread the whole stimulus from scratch** unless you genuinely misread it. Instead:
+Most students, when they sit down to "study for the SAT," work on things they're already decent at because it feels productive. Don't do this. Go straight to your weakest areas.
 
-- For evidence-based reasoning, **find the smallest line** that must be true for the correct answer to work.
-- For blank transitions, **say the relationship in your own words** (contrast, example, cause/effect) *before* looking at choices again.
+## The 3-Day-Per-Week Structure That Actually Works
 
-If two choices still look viable, ask: **Which one is fully supported without adding an assumption?** The SAT punishes “sounds smart” more than it punishes “sounds plain but true.”
+Here's the schedule I use with students who have 45–60 minutes on school nights and one longer block on weekends.
 
-## Vocabulary in context: define before you choose
+**Day 1 (45 min): Skill-focused practice**
+Pick one skill — a specific math concept, a grammar rule, a reading question type — and do 10–15 focused questions on just that. Review every wrong answer and understand why you got it wrong before moving on.
 
-When a vocabulary item depends on context, **write a one-word paraphrase** of the blank’s meaning *before* you look at answer choices. Even a sloppy paraphrase cuts down on distraction from near-synonyms.
+**Day 2 (45 min): Mixed review**
+Do a short mixed section pulled from an official practice test — 15–20 questions across different topics. This builds the switching-gears muscle you'll need on test day.
 
-## Practice like the test, not like homework
+**Day 3 (2–3 hours, weekend): Timed section or full test**
+Every few weeks, do a complete practice section under real timed conditions. Every month (if you have enough time before your test date), do a full test. The goal isn't just to measure progress — it's to practice managing your time and focus across a long sitting.
 
-Three habits separate students who improve from students who stay flat:
+## Pacing: The Most Underrated SAT Skill
 
-- **Timed sets** with the same decision rules you will use on test day (mark/skip rules included).
-- **Error log with a “why” category**: misread, knowledge gap, rushed, trap pattern.
-- **Weekly rhythm**: short daily work beats occasional marathon sessions.
+The SAT is not primarily a knowledge test. It's a timed knowledge test, which is a different thing.
+
+Students who don't practice under time pressure regularly make a predictable mistake on test day: they slow down on hard problems and run out of time before reaching easier questions at the end. This tanks scores.
+
+The fix is a simple rule I give every student: **never spend more than 90 seconds on a single question without flagging it and moving on.** Answer what you can confidently and quickly. Go back to the flagged ones with whatever time remains.
+
+This sounds obvious, but it takes deliberate practice to internalize. You have to train yourself to skip a question that's pulling you in — especially on math, where one tricky problem can feel like it has to be solvable if you just think harder. Sometimes it does. More often, you're better off getting the next three right and coming back.
+
+## Math: What to Actually Study
+
+About two-thirds of students I work with need the most work on math. Here's where the points usually are:
+
+**High value, learnable quickly:**
+- Linear equations and systems of equations
+- Percentages, ratios, and proportions
+- Basic statistics (mean, median, range)
+- Functions and their graphs
+
+**High value, takes more time:**
+- Quadratics and polynomials
+- Exponential growth and decay
+- Geometry and trigonometry basics
+
+Don't try to master everything. Figure out which high-value areas are your weakest and build those first. A student who goes from 60% accuracy to 85% accuracy on linear equations and systems has made a significant score impact with focused work on one topic.
+
+## Reading and Writing: The Skill They Don't Teach You
+
+The SAT's Reading and Writing section rewards one skill above all others: **reading for main idea, not for details.**
+
+Most students read every word carefully and try to hold all the information in their head. This is slow, and it's not what the questions actually test. The vast majority of SAT reading questions are about the author's purpose, the main claim, the function of a specific sentence, or the evidence for a specific point.
+
+Train yourself to read a passage once for structure and general meaning. Ask: What is this about? What is the author trying to say or show? Where is the argument going? Then answer questions using that frame, going back to specific lines only when needed.
+
+For grammar questions, the rule is: **shorter is almost always better.** The SAT consistently rewards concise, clear sentences over elaborate ones. When in doubt, pick the answer that says the same thing in fewer words with no grammatical errors.
+
+## When to Take the Real Test
+
+I recommend students take the SAT for the first time in the spring of junior year — not as a "for real" test, but as a high-stakes practice run. The real testing environment, the proctoring, the pacing of a real test day — none of that can be fully simulated at home.
+
+Then, use the summer to close the gaps. Fall of senior year is your best shot for a score that matters for your applications.
+
+If you're already a senior and haven't taken it yet — you're not out of time, but the window is tighter. Get a diagnostic done immediately so we know what we're working with.
 
 ---
 
-> **Bottom line:** R&W rewards a repeatable process. Build the process first; speed follows from fewer wasted decisions—not from skimming faster.
+If you want a personalized study plan built around your actual schedule, test date, and score goals, [reach out](/contact). Every student I work with gets a plan that fits their life, not the other way around.
