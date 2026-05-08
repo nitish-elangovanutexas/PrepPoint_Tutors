@@ -22,17 +22,17 @@ export function Hero() {
           {siteConfig.tagline}
         </p>
         <h1 className="mt-4 max-w-3xl text-4xl font-bold leading-tight tracking-tight text-white sm:text-5xl lg:text-6xl">
-          Get Into Your Dream College with Expert Guidance
+          Get Into Your Dream College — Real Results, Real Experience
         </h1>
         <p className="mt-6 max-w-xl text-lg text-orange-100">
-          Personalized SAT prep and flexible college counseling—built around your goals, timeline, and learning style.
+          Last summer, I personally helped 15+ students get into UT Austin, UC Berkeley, Northeastern, and more — using insider knowledge from top admits and my own experience as a UT Austin student. SAT prep, AP tutoring, and college consulting tailored to you.
         </p>
         <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:items-center">
           <Link
             href="/contact"
             className="inline-flex items-center justify-center rounded-lg bg-accent px-8 py-3.5 text-base font-semibold text-navy shadow-lg transition hover:bg-accent-hover"
           >
-            Book a Free Consultation
+            Book a Call
           </Link>
           <Link
             href="/pricing"
