@@ -44,8 +44,11 @@ export default function AboutPage() {
             About Nitish Elangovan
           </h1>
           <p className="mt-6 max-w-2xl text-lg text-orange-100">
-            Rising sophomore at UT Austin studying Data Science in the Polymathic Scholars honors
-            program — and the person behind every student result at PrepPoint.
+            Nitish is a rising sophomore at UT Austin, studying Data Science in the Polymathic
+            Scholars honors program. Last summer, he worked one-on-one with 15+ students through
+            the college application process — and watched them get into UT Austin, UC Berkeley,
+            Northeastern, and more. He&apos;s not just familiar with the process; he went through
+            it himself and knows what actually moves the needle.
           </p>
         </div>
       </section>
@@ -63,17 +66,19 @@ export default function AboutPage() {
         </div>
       </section>
 
-      <section className="py-16 sm:py-20">
+      <section className="py-20 sm:py-24">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
           <div className="grid gap-12 lg:grid-cols-2 lg:items-start">
             <div className="flex justify-center lg:justify-start">
-              <Image
-                src="/tutoring_pfp.jpeg"
-                alt="Nitish Elangovan"
-                width={300}
-                height={300}
-                className="rounded-2xl object-cover shadow-sm"
-              />
+              <div className="relative w-full max-w-sm overflow-hidden rounded-2xl shadow-md lg:max-w-none">
+                <Image
+                  src="/tutoring_pfp.jpeg"
+                  alt="Nitish Elangovan"
+                  width={400}
+                  height={500}
+                  className="w-full object-cover"
+                />
+              </div>
             </div>
             <div>
               <h2 className="text-3xl font-bold text-navy">My background</h2>

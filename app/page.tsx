@@ -18,9 +18,9 @@ export default function HomePage() {
     <>
       <Hero />
       <StatsBar />
+      <Testimonials />
       <AboutTeaser />
       <ServicesGrid />
-      <Testimonials />
       <CtaBand />
       <ContactTeaser />
     </>
