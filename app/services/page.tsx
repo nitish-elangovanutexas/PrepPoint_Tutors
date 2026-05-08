@@ -4,7 +4,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Services",
   description:
-    "SAT preparation, college admissions counseling, and personalized study plans from PrepPoint Tutors.",
+    "SAT preparation, college admissions counseling, and AP & academic tutoring from PrepPoint Tutors.",
 };
 
 const sections = [
@@ -27,12 +27,12 @@ const sections = [
     ],
   },
   {
-    id: "plans",
-    title: "Personalized Study Plans",
+    id: "ap",
+    title: "AP & Academic Tutoring",
     body: [
-      "Your plan balances coursework, test prep, and extracurriculars so nothing important gets dropped.",
-      "We adjust as your schedule changes—sports seasons, exams, and family commitments included.",
-      "Clear weekly goals and checkpoints keep you accountable without burnout.",
+      "Struggling with AP classes, regular high school coursework, or even middle school subjects? We provide targeted help across all subjects — math, science, English, history, and more — with a focus on building real understanding, not just memorizing answers.",
+      "Subject-specific sessions for AP, honors, and standard courses.",
+      "Middle school through senior year support — exam prep, homework help, and concept building.",
     ],
   },
 ] as const;
@@ -80,7 +80,7 @@ export default function ServicesPage() {
               href="/contact"
               className="rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-navy transition hover:bg-accent-hover"
             >
-              Contact us
+              Book a Call
             </Link>
           </div>
         </div>

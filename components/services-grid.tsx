@@ -21,13 +21,13 @@ const services = [
     imageLabel: "Graduation caps celebrating academic success",
   },
   {
-    title: "Personalized Study Plans",
+    title: "AP & Academic Tutoring",
     description:
-      "Weekly plans that balance coursework, test prep, and extracurriculars without burning out.",
+      "Targeted help across AP classes, high school, and middle school subjects — math, science, English, history, and more.",
     image:
-      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&h=500&q=80",
-    anchor: "plans",
-    imageLabel: "Open notebook and study materials on a desk",
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=800&h=500&q=80",
+    anchor: "ap",
+    imageLabel: "Student studying at a desk with open books",
   },
 ] as const;
 
