@@ -1,13 +1,8 @@
 export const siteConfig = {
   name: "PrepPoint Tutors",
   tagline: "Expert College Prep & SAT Tutoring",
-  email: process.env.NEXT_PUBLIC_CONTACT_EMAIL ?? "hello@preppointtutors.com",
-  phone: process.env.NEXT_PUBLIC_CONTACT_PHONE ?? "(555) 123-4567",
-  social: {
-    instagram: process.env.NEXT_PUBLIC_SOCIAL_INSTAGRAM ?? "#",
-    facebook: process.env.NEXT_PUBLIC_SOCIAL_FACEBOOK ?? "#",
-    linkedin: process.env.NEXT_PUBLIC_SOCIAL_LINKEDIN ?? "#",
-  },
+  email: process.env.NEXT_PUBLIC_CONTACT_EMAIL ?? "preppointtutoring0@gmail.com",
+  phone: process.env.NEXT_PUBLIC_CONTACT_PHONE ?? "(512) 590-4495",
 };
 
 export const navLinks = [
