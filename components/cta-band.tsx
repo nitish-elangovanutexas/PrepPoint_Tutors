@@ -7,7 +7,7 @@ export function CtaBand() {
         <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">
           Ready to take the next step?
         </h2>
-        <p className="mx-auto mt-4 max-w-2xl text-lg text-slate-300">
+        <p className="mx-auto mt-4 max-w-2xl text-lg text-orange-100">
           Send a message to request a free consultation—we&apos;ll map a path that works for your timeline and goals.
         </p>
         <Link

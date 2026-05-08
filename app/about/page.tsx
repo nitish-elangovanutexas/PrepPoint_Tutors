@@ -14,14 +14,14 @@ const team = [
     role: "Co-founder & Tutor",
     bio: "Focused on clear, practical college strategy and strong communication with families—so students always know the next step.",
     image:
-      "https://ui-avatars.com/api/?name=Nitish+Elengovan&size=400&background=1e3a5f&color=c9a227&bold=true",
+      "https://ui-avatars.com/api/?name=Nitish+Elengovan&size=400&background=ea580c&color=ffffff&bold=true",
   },
   {
     name: "Jayaditya Vetsa",
     role: "Co-founder & Tutor",
     bio: "Works with students on SAT skills and admissions planning, with an emphasis on flexible sessions that fit real school weeks.",
     image:
-      "https://ui-avatars.com/api/?name=Jayaditya+Vetsa&size=400&background=0f172a&color=c9a227&bold=true",
+      "https://ui-avatars.com/api/?name=Jayaditya+Vetsa&size=400&background=7c2d12&color=f97316&bold=true",
   },
 ] as const;
 
@@ -31,7 +31,7 @@ export default function AboutPage() {
       <section className="border-b border-border bg-navy py-16 text-white sm:py-20">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
           <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">About PrepPoint Tutors</h1>
-          <p className="mt-6 max-w-2xl text-lg text-slate-300">
+          <p className="mt-6 max-w-2xl text-lg text-orange-100">
             We believe college admissions should feel manageable—not mysterious. PrepPoint is a small team by design:
             you work directly with us, get honest feedback, and build a plan that fits your schedule.
           </p>

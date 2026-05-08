@@ -24,7 +24,7 @@ export function Hero() {
         <h1 className="mt-4 max-w-3xl text-4xl font-bold leading-tight tracking-tight text-white sm:text-5xl lg:text-6xl">
           Get Into Your Dream College with Expert Guidance
         </h1>
-        <p className="mt-6 max-w-xl text-lg text-slate-200">
+        <p className="mt-6 max-w-xl text-lg text-orange-100">
           Personalized SAT prep and flexible college counseling—built around your goals, timeline, and learning style.
         </p>
         <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:items-center">
