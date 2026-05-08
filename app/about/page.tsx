@@ -1,27 +1,33 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "About Us",
+  title: "About",
   description:
-    "Meet Nitish Elengovan and Jayaditya Vetsa—the team behind PrepPoint Tutors college counseling and SAT prep.",
+    "Nitish Elangovan is a UT Austin Data Science student in the Polymathic Scholars honors program who personally helped 15+ students gain admission to top universities last summer.",
 };
 
-const team = [
+const stats = [
+  { value: "15+", label: "Students Helped" },
+  { value: "7+", label: "UT Austin Admits" },
+  { value: "Top 5%", label: "Acceptance Rate Schools" },
+] as const;
+
+const results = [
   {
-    name: "Nitish Elengovan",
-    role: "Co-founder & Tutor",
-    bio: "Focused on clear, practical college strategy and strong communication with families—so students always know the next step.",
-    image:
-      "https://ui-avatars.com/api/?name=Nitish+Elengovan&size=400&background=ea580c&color=ffffff&bold=true",
+    school: "UT Austin",
+    count: "7+ Admits",
+    note: "My home school — I navigated the process myself and know exactly what they look for.",
   },
   {
-    name: "Jayaditya Vetsa",
-    role: "Co-founder & Tutor",
-    bio: "Works with students on SAT skills and admissions planning, with an emphasis on flexible sessions that fit real school weeks.",
-    image:
-      "https://ui-avatars.com/api/?name=Jayaditya+Vetsa&size=400&background=7c2d12&color=f97316&bold=true",
+    school: "UC Berkeley",
+    count: "1 Admit",
+    note: "A reach school we targeted strategically with a focused application narrative.",
+  },
+  {
+    school: "Northeastern University",
+    count: "1 Admit",
+    note: "5.2% acceptance rate. The right strategy made the difference.",
   },
 ] as const;
 
@@ -30,37 +36,80 @@ export default function AboutPage() {
     <div className="bg-background">
       <section className="border-b border-border bg-navy py-16 text-white sm:py-20">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
-          <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">About PrepPoint Tutors</h1>
-          <p className="mt-6 max-w-2xl text-lg text-orange-100">
-            We believe college admissions should feel manageable—not mysterious. PrepPoint is a small team by design:
-            you work directly with us, get honest feedback, and build a plan that fits your schedule.
+          <p className="text-sm font-semibold uppercase tracking-widest text-accent">
+            PrepPoint Tutors
           </p>
+          <h1 className="mt-4 text-4xl font-bold tracking-tight sm:text-5xl">
+            About Nitish Elangovan
+          </h1>
+          <p className="mt-6 max-w-2xl text-lg text-orange-100">
+            Rising sophomore at UT Austin studying Data Science in the Polymathic Scholars honors
+            program — and the person behind every student result at PrepPoint.
+          </p>
+        </div>
+      </section>
+
+      <section className="border-b border-border bg-card py-12">
+        <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
+          <div className="grid grid-cols-3 gap-8 text-center">
+            {stats.map((s) => (
+              <div key={s.label}>
+                <p className="text-4xl font-bold text-accent sm:text-5xl">{s.value}</p>
+                <p className="mt-2 text-sm font-medium text-muted sm:text-base">{s.label}</p>
+              </div>
+            ))}
+          </div>
         </div>
       </section>
 
       <section className="py-16 sm:py-20">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
-          <div className="grid gap-12 lg:grid-cols-2 lg:items-center">
+          <div className="grid gap-12 lg:grid-cols-2 lg:items-start">
             <div>
-              <h2 className="text-3xl font-bold text-navy">Our mission</h2>
-              <p className="mt-6 leading-relaxed text-muted">
-                PrepPoint exists to give students flexible, high-quality support for the SAT and the college
-                application process. Whether you need a handful of targeted sessions or a longer arc toward a cohesive
-                application, we keep the work organized and the expectations realistic.
-              </p>
-              <p className="mt-4 leading-relaxed text-muted">
-                No cookie-cutter packages—just hourly sessions you control, clear communication, and strategies tailored
-                to your goals.
-              </p>
+              {/* TODO: replace with real photo */}
+              <div className="flex aspect-[4/5] w-full items-center justify-center rounded-2xl border border-border bg-card text-5xl font-bold text-accent shadow-sm">
+                NE
+              </div>
             </div>
-            <div className="relative aspect-[4/3] overflow-hidden rounded-2xl shadow-lg">
-              <Image
-                src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80"
-                alt="Students collaborating on college planning"
-                fill
-                className="object-cover"
-                sizes="(max-width:1024px) 100vw, 50vw"
-              />
+            <div>
+              <h2 className="text-3xl font-bold text-navy">My background</h2>
+              <div className="mt-6 space-y-4 leading-relaxed text-muted">
+                <p>
+                  I&apos;m Nitish Elangovan — a rising sophomore at the University of Texas at
+                  Austin, studying Data Science in the{" "}
+                  <strong className="text-foreground">
+                    Polymathic Scholars honors program
+                  </strong>
+                  , one of UT&apos;s most selective academic communities.
+                </p>
+                <p>
+                  I navigated UT Austin admissions myself, and I went beyond my own experience —
+                  studying what worked for other top admits at UT and beyond. That combination of
+                  firsthand knowledge and aggregated insider perspective is what makes the guidance
+                  at PrepPoint different from a generic counselor.
+                </p>
+                <p>
+                  Last summer, I worked one-on-one with{" "}
+                  <strong className="text-foreground">15+ students</strong> on college admissions.
+                  The results:{" "}
+                  <strong className="text-foreground">7+ admits to UT Austin</strong>, one to{" "}
+                  <strong className="text-foreground">UC Berkeley</strong>, and one to{" "}
+                  <strong className="text-foreground">Northeastern University</strong> — a school
+                  with a 5.2% acceptance rate. Every application was built around the
+                  student&apos;s actual story, not a template.
+                </p>
+                <p>
+                  PrepPoint is a solo operation. When you work with me, you get me — not an
+                  associate, not a junior counselor. Every session, every essay review, every
+                  strategy call is handled directly.
+                </p>
+              </div>
+              <Link
+                href="/contact"
+                className="mt-8 inline-flex items-center justify-center rounded-lg bg-accent px-8 py-3.5 text-base font-semibold text-navy shadow-lg transition hover:bg-accent-hover"
+              >
+                Book a Call
+              </Link>
             </div>
           </div>
         </div>
@@ -68,39 +117,39 @@ export default function AboutPage() {
 
       <section className="border-t border-border bg-card py-16 sm:py-20">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
-          <h2 className="text-center text-3xl font-bold text-navy">Meet the team</h2>
-          <p className="mx-auto mt-4 max-w-2xl text-center text-lg text-muted">
-            Two tutors, one standard: we show up prepared, listen first, and adjust as your needs change.
+          <h2 className="text-3xl font-bold text-navy">Last summer&apos;s results</h2>
+          <p className="mt-4 max-w-2xl leading-relaxed text-muted">
+            These are real students I personally worked with — from first session to submitted
+            application. No co-counselors, no handoffs.
           </p>
-          <div className="mx-auto mt-12 grid max-w-4xl gap-10 sm:grid-cols-2">
-            {team.map((member) => (
-              <article
-                key={member.name}
-                className="flex flex-col overflow-hidden rounded-2xl border border-border bg-background shadow-sm"
+          <div className="mt-10 grid gap-6 sm:grid-cols-3">
+            {results.map((r) => (
+              <div
+                key={r.school}
+                className="rounded-2xl border border-border bg-background p-6 shadow-sm"
               >
-                <div className="relative aspect-square w-full max-h-72 sm:max-h-none sm:aspect-[4/3]">
-                  <Image
-                    src={member.image}
-                    alt={member.name}
-                    fill
-                    className="object-cover object-top"
-                    sizes="(max-width:640px) 100vw, 50vw"
-                  />
-                </div>
-                <div className="flex flex-1 flex-col p-6">
-                  <h3 className="text-xl font-bold text-navy">{member.name}</h3>
-                  <p className="mt-1 text-sm font-medium text-accent">{member.role}</p>
-                  <p className="mt-4 flex-1 text-sm leading-relaxed text-muted">{member.bio}</p>
-                </div>
-              </article>
+                <p className="text-lg font-bold text-navy">{r.school}</p>
+                <p className="mt-1 text-2xl font-bold text-accent">{r.count}</p>
+                <p className="mt-3 text-sm leading-relaxed text-muted">{r.note}</p>
+              </div>
             ))}
           </div>
-          <p className="mt-12 text-center text-muted">
-            <Link href="/contact" className="font-semibold text-navy underline decoration-accent">
-              Get in touch
-            </Link>{" "}
-            to tell us about your goals—we&apos;ll reply with next steps.
+        </div>
+      </section>
+
+      <section className="py-16 sm:py-20">
+        <div className="mx-auto max-w-6xl px-4 text-center sm:px-6 lg:px-8">
+          <h2 className="text-3xl font-bold text-navy">Ready to build your application?</h2>
+          <p className="mx-auto mt-4 max-w-xl text-lg text-muted">
+            Book a call and we&apos;ll map out a plan specific to your goals, timeline, and target
+            schools.
           </p>
+          <Link
+            href="/contact"
+            className="mt-8 inline-flex items-center justify-center rounded-lg bg-accent px-8 py-3.5 text-base font-semibold text-navy shadow-lg transition hover:bg-accent-hover"
+          >
+            Book a Call
+          </Link>
         </div>
       </section>
     </div>
